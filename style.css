@@ -5,16 +5,16 @@
 .navbar{
     border: none;
     background-color: #223843;
-    color: #292b2c;
+    color: #161a1b;
 }
 
 body{
 	background-color: #1a1918;
-	color: #76899c;
+	color: #0f1113;
 }
 
 .glyphicon{
-	font-size: 30px;
+	font-size: 40px;
 	color:#080808; 
 }
 
